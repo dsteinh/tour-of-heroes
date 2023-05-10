@@ -1,0 +1,15 @@
+nav a {
+  align-self: center;
+  color: #405061;
+  text-decoration: none;
+  background-color: #EEE;
+  margin: .5em;
+  height: 1.6em;
+  border-radius: 4px;
+  padding: .5em;
+  width: 15%;
+}
+nav a:hover{
+ background-color: #336699;
+  color: #EEEEEE;
+}
